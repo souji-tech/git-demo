@@ -1,0 +1,8 @@
+hii hlo 
+words= input("enter a word")
+l={}
+for l in words:
+  x=append.l
+print(x)
+hello hiiiiiii
+new sessions to get launch
