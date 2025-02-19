@@ -6,3 +6,4 @@ for l in words:
 print(x)
 hello hiiiiiii
 new sessions to get launch
+to learn go and git
