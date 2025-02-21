@@ -5,3 +5,6 @@ git status----> it is to view the file is tracked to git or not
 git add . ---------> it is to add file to the git
 git commit -m --------> it is to commit changes to the git
 git push origin main---------> it is to push the local repo commit to remote repo 
+git branch----> used to view the branch we currently residing
+git switch branch name --------> used to change the branch name 
+git branch new_name---> used to create new branch in local repo
